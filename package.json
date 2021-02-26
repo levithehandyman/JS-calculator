@@ -1,0 +1,23 @@
+{
+  "name": "js-calculator",
+  "version": "1.0.0",
+  "description": "javaScript calculator for code camp",
+  "main": "index.js",
+  "scripts": {
+    "test": "go"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levithehandyman/JS-calculator.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Calculator"
+  ],
+  "author": "Levi Daymon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/levithehandyman/JS-calculator/issues"
+  },
+  "homepage": "https://github.com/levithehandyman/JS-calculator#readme"
+}
